@@ -1,6 +1,6 @@
 ﻿namespace com.chess.impl.EF.Repo
 {
-    public class Repository : IRepository
+    public class Repository
     {
 
     }
